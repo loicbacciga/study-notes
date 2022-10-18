@@ -1,0 +1,75 @@
+\documentclass{scrartcl}
+\usepackage[margin=1in,a4paper]{geometry}
+\usepackage[utf8]{inputenc}
+\usepackage{amsfonts}         % for natural N
+\usepackage{amsmath}          % for \text{}
+\usepackage{indentfirst}      % to indent first line of section
+\usepackage{hyperref}         % for \nameref{}
+\usepackage{titlesec}         % for text next to section
+
+\renewcommand{\thesubsection}{}
+\setlength{\parskip}{0.5em}   % spacing between paragraphs
+\setlength\parindent{0pt}     % no indent at start of paragraphs
+
+\titleformat{\section}[hang]
+  {\normalfont\Large\bfseries}{\thesection}{1em}{}
+\titleformat{\subsection}[runin]
+  {\normalfont\large\bfseries}{\thesubsection}{1em}{}
+
+\title{Exercise 5}
+\subtitle{Zero-Knowledge Proofs}
+\author{Loïc Baccigalupi}
+
+\begin{document}
+
+\maketitle
+
+\section*{5.1 Public-Coin Interactive Proof for Graph Non-Isomorphism}
+
+\subsection{a)}
+
+Because if $v \in \mathbb{F}_{2^m}$ is uniformly random, then we can see that each element $v_i$ ($v = (v_1, \dots, v_m)$) is also uniformly random. 
+This implies that the vector $[v] = (v_1, \dots, v_k)$ is also uniformly random, as it is composed of uniformly random vector elements.
+
+Because of this, we know that $y$ and $y^{\prime}$ are independent.
+
+This in turn shows that $\forall x \neq x^{\prime} \in \mathbb{F}_{2^m}$ and $y,y^{\prime} \in \mathbb{F}_{2^k}$:
+\begin{equation*}
+    \begin{split}
+        \text{P}_{h \leftarrow \mathcal{H}}\{h(x)=y \wedge h(x^{\prime}) = y^{\prime} \}
+            &= \text{P}_{h_{a,b} \leftarrow \mathcal{H}}\{[ax+b]=y \wedge [ax^{\prime} + b] = y^{\prime} \} \\
+            &= \text{P}_{h_{a,b} \leftarrow \mathcal{H}}\{[ax+b]=y \}\text{P}_{h_{a,b} \leftarrow \mathcal{H}}\{[ax^{\prime} + b] = y^{\prime} \} \\
+            &= \frac{1}{2^k}\frac{1}{2^k} \\
+            &= 2^{-2k}
+    \end{split}
+\end{equation*}
+
+
+\subsection{b)}
+
+Let $P = \text{P}_{h, y}\{\exists x \in S : h(x) = y \} $ and $T = \{h(x) : x \in S \} \subseteq \mathbb{F}_{2^k}$ the set of images of $h$ where the inputs are elements of $S \subseteq \mathbb{F}_{2^m}$ .
+
+The cardinality $|T|$ is at a maximum if every element of $S$ maps to a distinct element in $\mathbb{F}_{2^k}$, i.e. $|T|=|S|$.
+This implies that the upper bound of $P$ is the probability of picking a random element of $T$, i.e.:
+
+\begin{equation*}
+    P \leq \frac{|T|}{2^k} = \frac{|S|}{2^k} = |S|2^{-k}
+\end{equation*}
+
+Because we used the maximum cardinality $|T|$, this implies we used the upper bound of $p\ (= N2^{-k})$. By knowing that $|[\frac{1}{4}; \frac{1}{2})| = \frac{1}{4}$, we can find the lower bound of $P$:
+
+\begin{equation*}
+    P \leq |S|2^{-k}\left(1- \frac{1}{4} \right) = 3|S|2^{-k-2}
+\end{equation*}
+
+
+\subsection*{c)}
+
+The prover can find with probability at least $3|S|2^{-k-2} = \frac{3}{4}p$ when $|S| = N$ the correct $s$ to send. This means that the protocol is $\frac{3}{4}p$-complete.
+
+If $|S| \leq \frac{N}{2}$, the probability of finding the correct $x$ is at most half of what it is when $|S| = N$ ($|S|$ is at most half of $N$). So the protocol is $\frac{p}{2}$-sound. 
+
+
+\subsection*{d)}
+
+\end{document}
