@@ -6,6 +6,7 @@
 \usepackage{indentfirst}      % to indent first line of section
 \usepackage{hyperref}         % for \nameref{}
 \usepackage{titlesec}         % for text next to section
+\usepackage{mathabx}
 
 \renewcommand{\thesubsection}{}
 \setlength{\parskip}{0.5em}   % spacing between paragraphs
@@ -71,5 +72,15 @@ If $|S| \leq \frac{N}{2}$, the probability of finding the correct $x$ is at most
 
 
 \subsection*{d)}
+
+We can use the GI zero-knowledge proof as seen in class to prove that a graph $X$ is isomorphic to $G_0$ or $G_1$, i.e. $X \in S$.
+
+If $G_0 \cong G_1$, $|S| = n!$ and if $G_0 \ncong G_1$, $|S| = 2n!$.
+
+\subsection*{e)}
+
+If we set $N = 2n!$ and $S$ as seen in the previous sub-question, we want our protocol to accept if $|S| = 2n! = N$ and reject if $|S| \leq n! = \frac{N}{2}$ (same conditions as in Goldwasser-Sipser).
+
+Now we have that $S = \{H : H \cong G_0 \ \text{or}\ H \cong G_1 \} \subseteq \{\text{"All graphs with}\ n \ \text{vertices"}\}$
 
 \end{document}

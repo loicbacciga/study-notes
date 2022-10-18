@@ -560,6 +560,18 @@ INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.s
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\titlesec\titlesec.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\mathabx\mathabx.sty
+INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\generic\mathabx\mathabx.dcl
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\l3backend\l3backend-pdftex.def
@@ -626,6 +638,15 @@ INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex\latex\amsfonts\umsb.fd
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\matha12.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\matha10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\matha7.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathb12.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathb10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathb7.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathx10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathx10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathx10.tfm
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr12.tfm
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmbx12.tfm
@@ -646,14 +667,27 @@ INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\sym
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm10.tfm
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\tfm\public\amsfonts\symbols\msbm7.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\matha10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\matha8.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\matha6.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathb10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathb8.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathb6.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathx10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathx10.tfm
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\tfm\public\mathabx\mathx10.tfm
 INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\map\pdftex\pdftex.map
 INPUT c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.aux
 INPUT c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.out
 INPUT c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.out
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi657\mathx10.pk
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi657\mathx10.pk
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi600\matha8.pk
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi600\matha8.pk
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi657\matha10.pk
+INPUT C:\Users\loicb\AppData\Local\MiKTeX\fonts\pk\ljfour\public\mathabx\dpi657\matha10.pk
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmbx12.pfb
-INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
-INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmex10.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi10.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmmi6.pfb
@@ -668,8 +702,6 @@ INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\c
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmr8.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmssbx10.pfb
-INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
-INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy10.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\cm\cmsy8.pfb
 INPUT C:\Users\loicb\AppData\Local\Programs\MiKTeX\fonts\type1\public\amsfonts\symbols\msbm10.pfb
