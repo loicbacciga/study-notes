@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  19 OCT 2022 13:25
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 22.10) (preloaded format=pdflatex 2022.10.18)  19 OCT 2022 13:24
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"c:/Users/loicb/Programming/study-notes/ETHZ/Zero-Knowledge Proofs/Exercise 5.1.tex"
-(c:/Users/loicb/Programming/study-notes/ETHZ/Zero-Knowledge Proofs/Exercise 5.1.tex
+**"c:/Users/loicb/Programming/study-notes/ETHZ/Zero-Knowledge Proofs/Exercise 5.2.tex"
+(c:/Users/loicb/Programming/study-notes/ETHZ/Zero-Knowledge Proofs/Exercise 5.2.tex
 LaTeX2e <2022-06-01> patch level 5
 L3 programming layer <2022-09-28> (C:\Users\loicb\AppData\Local\Programs\MiKTeX\tex/latex/koma-script\scrartcl.cls
 Document Class: scrartcl 2022/10/12 v3.38 KOMA-Script document class (article)
@@ -496,8 +496,8 @@ LaTeX Font Info:    Redeclaring math accent \widetilde on input line 946.
 File: l3backend-pdftex.def 2022-09-28 L3 backend support: PDF output (pdfTeX)
 \l__color_backend_stack_int=\count290
 \l__pdf_internal_box=\box56
-) (c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.aux)
-\openout1 = `"Exercise 5.1.aux"'.
+) (c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.2.aux)
+\openout1 = `"Exercise 5.2.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -564,9 +564,9 @@ Package scrbase Info: activating english \indexname on input line 24.
 LaTeX Info: Command `\dddot' is already robust on input line 24.
 LaTeX Info: Command `\ddddot' is already robust on input line 24.
 Package hyperref Info: Link coloring OFF on input line 24.
-(c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.out) (c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.out)
+(c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.2.out) (c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.2.out)
 \@outlinefile=\write3
-\openout3 = `"Exercise 5.1.out"'.
+\openout3 = `"Exercise 5.2.out"'.
 
 Class scrartcl Info: loading recommended package `bookmark'.
 (scrartcl)           Using `bookmark' together with `hyperref' is recommended,
@@ -592,22 +592,22 @@ File: umsb.fd 2013/01/14 v3.01 AMS symbols B
 ) [1
 
 
-{C:/Users/loicb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] [2] (c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.aux)
-Package rerunfilecheck Info: File `"Exercise 5.1".out' has not changed.
+{C:/Users/loicb/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}] (c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.2.aux)
+Package rerunfilecheck Info: File `"Exercise 5.2".out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
  ) 
 Here is how much of TeX's memory you used:
- 12990 strings out of 475385
- 227777 string characters out of 2776906
- 716338 words of memory out of 3000000
- 34225 multiletter control sequences out of 15000+600000
- 484883 words of font info for 82 fonts, out of 8000000 for 9000
+ 12952 strings out of 475385
+ 227347 string characters out of 2776906
+ 700338 words of memory out of 3000000
+ 34199 multiletter control sequences out of 15000+600000
+ 477396 words of font info for 56 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 108i,17n,106p,10716b,435s stack positions out of 10000i,1000n,20000p,200000b,80000s
- <C:\Users\loicb\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi657\mathx10.pk> <C:\Users\loicb\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi600\matha8.pk> <C:\Users\loicb\AppData\Local\MiKTeX\fonts/pk/ljfour/public/mathabx/dpi657\matha10.pk><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi10.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi6.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmmi8.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr8.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy8.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
-Output written on "c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.1.pdf" (2 pages, 127803 bytes).
+ 108i,7n,106p,10716b,436s stack positions out of 10000i,1000n,20000p,200000b,80000s
+<C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmr12.pfb><C:/Users/loicb/AppData/Local/Programs/MiKTeX/fonts/type1/public/amsfonts/cm/cmssbx10.pfb>
+Output written on "c:\Users\loicb\Programming\study-notes\ETHZ\Zero-Knowledge Proofs\out\Exercise 5.2.pdf" (1 page, 45838 bytes).
 PDF statistics:
- 101 PDF objects out of 1000 (max. 8388607)
- 3 named destinations out of 1000 (max. 500000)
+ 31 PDF objects out of 1000 (max. 8388607)
+ 2 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
